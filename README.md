@@ -1,27 +1,27 @@
-# Bird Migration Analysis
+ # Bird Migration Analysis
 
-##  Project Overview
+## 📊 Project Overview
 This project analyzes bird migration patterns using data related to
 bird species, habitat, weather conditions, migration distance,
-migration reason, migration interruptions, and migration success.
+migration reason, interruptions, and migration success.
 
-##  Tools Used
+## 🛠️ Tools Used
 - Tableau
 - Microsoft Excel
 
-##  Key Analysis
+## 📈 Key Analysis
 - Migration success rate
 - Migration interruptions
 - Flight distance
-- Migration reasons
+- Migration reason
 - Species and habitat analysis
 - Weather conditions affecting migration
 
-##  Files Included
+## 📁 Files Included
 - Bird migration dataset
 - Tableau dashboard
 - Dashboard screenshot
 
-##  Objective
+## 🎯 Objective
 To identify patterns and trends in bird migration and present
 the findings through an interactive Tableau dashboard.
